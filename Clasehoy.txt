@@ -1,0 +1,1 @@
+Se enseño en profundidad comandos en git y terminal, y se explico como subir archivos a github desde la terminal.
